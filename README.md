@@ -1,10 +1,8 @@
 # Tarea 1: Planificador de Tareas Concurrente (DAG)
 
 ## Integrantes
-* Eylan Acuña - 21636001K
-* Eric Fernandez - 218647251
-
----
+* Eylan Acuña
+* Eric Fernandez
 
 ## Descripción de Funciones Implementadas
 
