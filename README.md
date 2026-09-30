@@ -2,7 +2,7 @@
 
 ## Integrantes
 * Eylan Acuña - 21636001K
-* Eric Fernandez - [RUT 2]
+* Eric Fernandez - 218647251
 
 ---
 
